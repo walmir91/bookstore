@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 52999b44a27a50d76dc11df9ddf9aa75bd9f5b5c walmir91 <walmirlmjr@gmail.com> 1635768915 -0300	commit (initial): initial commit
+52999b44a27a50d76dc11df9ddf9aa75bd9f5b5c 2db949603dcfe20d651da0f1e6aa77bf51245d23 walmir91 <walmirlmjr@gmail.com> 1635770004 -0300	commit: Angular material instalado no projeto
+2db949603dcfe20d651da0f1e6aa77bf51245d23 b020f0d96ba9d7dc779869466852bf23a94c8ad3 walmir91 <walmirlmjr@gmail.com> 1635777927 -0300	commit: Home implementado com rota
+b020f0d96ba9d7dc779869466852bf23a94c8ad3 18af55d1e8769152ec14215ea6d6e433f1657501 walmir91 <walmirlmjr@gmail.com> 1635793718 -0300	commit: Categoria-read foi implementado
+18af55d1e8769152ec14215ea6d6e433f1657501 5799c12405cee62c7afbbf76528d14c6c5c66992 walmir91 <walmirlmjr@gmail.com> 1636066611 -0300	commit: Ajustes no component-read
+5799c12405cee62c7afbbf76528d14c6c5c66992 b0598c1ba133e28d42452998ad20d021dad994ff walmir91 <walmirlmjr@gmail.com> 1636219896 -0300	commit: Método create implementado para categoria
+b0598c1ba133e28d42452998ad20d021dad994ff 82156c0f2ad2a6601eeff91e8467dd3097e6b94d walmir91 <walmirlmjr@gmail.com> 1636224240 -0300	commit: Finalizando o método create
+82156c0f2ad2a6601eeff91e8467dd3097e6b94d 83f04345043e89165dffdfbd3faa21246e7e70f4 walmir91 <walmirlmjr@gmail.com> 1636229219 -0300	commit: categoria DELETE implementada
+83f04345043e89165dffdfbd3faa21246e7e70f4 f3f2300adcad88cf071c6b10afecfbd166d84413 walmir91 <walmirlmjr@gmail.com> 1636231537 -0300	commit: Implementado o metodo UPDATE para categoria
+f3f2300adcad88cf071c6b10afecfbd166d84413 cfe82f4db141fa8b401ff6ac59c3a00025dec487 walmir91 <walmirlmjr@gmail.com> 1636295129 -0300	commit: Implementado a vizualização de todos os livros por categoria
+cfe82f4db141fa8b401ff6ac59c3a00025dec487 80dd59ade8a2cd3d9cbf5876c651eaa810058bae walmir91 <walmirlmjr@gmail.com> 1636300104 -0300	commit: Update para livro implementado
+80dd59ade8a2cd3d9cbf5876c651eaa810058bae 84d89602204aef1ea2ac8c47aa399b075e32fd42 walmir91 <walmirlmjr@gmail.com> 1636301351 -0300	commit: Delete implementado para livro
+84d89602204aef1ea2ac8c47aa399b075e32fd42 15cb0f3fba23a86c4053cfdd12b1f5fd16679346 walmir91 <walmirlmjr@gmail.com> 1636305749 -0300	commit: Implementado read para livro
